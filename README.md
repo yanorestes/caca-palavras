@@ -1,4 +1,4 @@
-# caca-palavras
+# Caça-Palavras
 Exercício da matéria MC102 - Algoritmos e Programação de Computadores na UNICAMP.
 
 Links do enunciado:
